@@ -1,0 +1,1 @@
+-- Inserts sample hospital data
