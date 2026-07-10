@@ -110,7 +110,7 @@ This project answers realistic healthcare business questions, including:
 
 This query combines the **Doctors** and **Appointments** tables to identify clinicians with the highest appointment workload.
 
-![Doctor Workload Analysis](images/doctor_workload_analysis.png)
+![Doctor Workload Analysis](image/doctor_workload_analysis.png.png)
 
 ---
 
@@ -118,7 +118,7 @@ This query combines the **Doctors** and **Appointments** tables to identify clin
 
 A SQL Window Function (`RANK()`) was used to rank doctors according to their years of professional experience.
 
-![Doctor Experience Ranking](images/doctor_experience_ranking.png)
+![Doctor Experience Ranking](image/doctor_experience_ranking.png.png)
 
 ---
 
