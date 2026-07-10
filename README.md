@@ -8,7 +8,9 @@
 
 As a Health Informatics postgraduate with a clinical background in dental nursing, I wanted to build a project that reflects how SQL can be applied in a realistic healthcare setting.
 
-Rather than focusing on isolated SQL exercises, this project follows the workflow of a junior healthcare data analyst by exploring a relational hospital database, connecting multiple tables and answering business questions that support operational and financial decision-making.
+This project has the workflow of a healthcare data analyst by exploring a relational hospital database, connecting multiple tables and answering business questions that support operational and financial decision-making.
+
+Hope this is insightful for you!
 
 ---
 
