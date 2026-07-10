@@ -44,7 +44,7 @@ The project analyses five related tables:
 
 The Entity Relationship Diagram (ERD) below illustrates the logical relationships between the hospital database tables.
 
-![Hospital Database ERD](images/hospital_database_erd.png)
+![Hospital Database ERD](image/hospital_database_erd)
 
 ---
 
